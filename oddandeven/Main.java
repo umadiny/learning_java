@@ -1,0 +1,10 @@
+import java.util.*;
+import java.lang.Math;
+
+class Main {
+    public static void main(String[] args) {
+
+        System.out.println("Welcome to the java main class");
+        
+    }
+}
